@@ -56,3 +56,4 @@ mi_webside/
 ## 🐶 Licencia
 
 MIT – libre para uso personal o educativo.
+
