@@ -6,8 +6,7 @@ Página web personal dedicada a mis mascotas, con fotos, información y curiosid
 
 ## 🌐 Vista previa
 
-Se puede ver en GitHub Pages:  
-`https://github.com/daimiltsv/Exercise_Unit5_website.git`  
+**Sitio web alojado en GitHub Pages:** https://github.com/daimiltsv/Exercise_Unit5_website.git
 > Reemplaza `daimiltsv` por tu usuario de GitHub.
 
 ---
